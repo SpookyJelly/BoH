@@ -1,0 +1,100 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#겨울  ",
+      "color": {
+        "a": 1,
+        "rgb": 10416127
+      }
+    },
+    {
+      "query": "tag:#성배",
+      "color": {
+        "a": 1,
+        "rgb": 16724818
+      }
+    },
+    {
+      "query": "tag:#칼끝",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "tag:#꿀",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "tag:#달",
+      "color": {
+        "a": 1,
+        "rgb": 12226747
+      }
+    },
+    {
+      "query": "tag:#나방",
+      "color": {
+        "a": 1,
+        "rgb": 13421772
+      }
+    },
+    {
+      "query": "tag:#등불",
+      "color": {
+        "a": 1,
+        "rgb": 16772393
+      }
+    },
+    {
+      "query": "tag:#심장",
+      "color": {
+        "a": 1,
+        "rgb": 16701407
+      }
+    },
+    {
+      "query": "tag:#열쇠",
+      "color": {
+        "a": 1,
+        "rgb": 11290623
+      }
+    },
+    {
+      "query": "tag:#하늘",
+      "color": {
+        "a": 1,
+        "rgb": 3378175
+      }
+    },
+    {
+      "query": "tag:#화로",
+      "color": {
+        "a": 1,
+        "rgb": 16739630
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0.3,
+  "nodeSizeMultiplier": 1.63125,
+  "lineSizeMultiplier": 0.686979166666667,
+  "collapse-forces": false,
+  "centerStrength": 0.322916666666667,
+  "repelStrength": 15.8333333333333,
+  "linkStrength": 0.333333333333333,
+  "linkDistance": 409,
+  "scale": 0.04778763710962483,
+  "close": true
+}
